@@ -9,6 +9,7 @@ Skills
 *  Basic incident response
 *  Network and system hardening
 *  Log review and SIEM fundamentals
+*  Many more...
 
 Tools
 *  Wireshark
@@ -16,6 +17,7 @@ Tools
 *  Splunk
 *  Nessus
 *  Linux utilities
+Mods Link Completed
 
 Frameworks
 *  NIST
@@ -23,10 +25,11 @@ Frameworks
 *  MITRE ATT&CK
 
 Projects
-*  Vulnerability assessments
+*  Vulnerability & Research [![](https://img.shields.io/badge/Vulnerability-Research-blue?style=for-the-badge&logo=google-drive)]
 *  SIEM log analysis
 *  Network traffic investigations
 *  Security configuration reviews
+*  Programimng  and EDM Mod
 
 Goal
 To keep growing as a security professional and build strong, practical skills that support safe and resilient systems.
