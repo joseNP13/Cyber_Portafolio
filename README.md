@@ -4,6 +4,7 @@ About Me
 I’m a cybersecurity student building real experience through labs, projects, and continuous learning. I enjoy breaking down security issues and finding straightforward, effective solutions.
 
 Skills
+*  Basic to advance communication
 *  Threat analysis
 *  Vulnerability scanning
 *  Basic incident response
