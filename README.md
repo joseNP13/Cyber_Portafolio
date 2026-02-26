@@ -25,7 +25,7 @@ Frameworks
 *  MITRE ATT&CK
 
 Projects
-*  Vulnerability & Research [![](https://img.shields.io/badge/Vulnerability-Research-blue?style=for-the-badge&logo=google-drive)]
+*  ![](https://img.shields.io/badge/Vulnerability-Research-blue?style=for-the-badge&logo=google-drive)
 *  SIEM log analysis
 *  Network traffic investigations
 *  Security configuration reviews
