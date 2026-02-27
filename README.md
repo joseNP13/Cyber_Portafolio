@@ -30,7 +30,15 @@ Projects
 *  SIEM log analysis
 *  Network traffic investigations
 *  Security configuration reviews
-*  Programimng  and EDM Mod
+*  Programimng  and EDM Mod 
+
+Certifications
+*  [**COURSERA**](https://drive.google.com/drive/folders/1_QwL1ppgcCCqGSj2Adli9TLL3N8ntFw0?usp=drive_link)
+    *  Google:Fundational Cybersecurity, Technical Support Fundamentals
+    *  
+    *  
+* College
+  * ICOHS - Cybersecurity Professional Graduated 2025.
 
 Goal
 To keep growing as a security professional and build strong, practical skills that support safe and resilient systems.
