@@ -38,7 +38,9 @@ Certifications
     *  
     *  
 * College
-  * ICOHS - Cybersecurity Professional Graduated 2025.
+  * ICOHS - Cyber Security Specialist 2025.
 
-Goal
+Goal:
 To keep growing as a security professional and build strong, practical skills that support safe and resilient systems.
+
+Professional Goal: To achieve a Master’s degree and beyond while evolving alongside the rapidly advancing AI landscape. I am focused on bridging the gap between theoretical security and practical AI implementation to create safer, more adaptive systems.To keep growing as a security professional and build strong, practical skills that support safe and resilient systems.
