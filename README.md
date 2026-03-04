@@ -55,8 +55,8 @@ Below is my current progress. These are the projects I’m studying and developi
 
 Projects
 *  [**Research Projects**](https://drive.google.com/drive/folders/1-kYpVTDiwsQmeSWCD6Rk5DrbT1cR759n?usp=drive_link)
+*  [**Home Netwrok Architecture Build up with CISCO PacketTracer**](https://drive.google.com/drive/folders/1EVHTr3hYfR_Dqd9V8mgBroahuPq_-6ZF?usp=drive_link)
 *  SIEM log analysis
-*  Network traffic investigations and Network Build CISCO 
 *  Security configuration reviews
 *  Programimng  and EDM Mod 
 
