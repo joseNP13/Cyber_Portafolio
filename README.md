@@ -58,7 +58,7 @@ Projects
 *  [**Home Netwrok Architecture Build up with CISCO PacketTracer**](https://drive.google.com/drive/folders/1EVHTr3hYfR_Dqd9V8mgBroahuPq_-6ZF?usp=drive_link)
 *  SIEM log analysis
 *  Security configuration reviews
-*  Programimng  and EDM Mod 
+*  Programming and EDM Mod
 
 Certifications
 *  [**COURSERA**](https://drive.google.com/drive/folders/1_QwL1ppgcCCqGSj2Adli9TLL3N8ntFw0?usp=drive_link)
