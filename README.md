@@ -60,13 +60,13 @@ Projects
 *  [**Automated Security Scanning in a Jenkins Pipeline**](https://drive.google.com/drive/folders/1VW7M5Fp4peRT6pPyLj6gFtE7UNHEUtU6?usp=drive_link)
 *  [**Security configuration reviews python Tools**](https://drive.google.com/drive/folders/1yZkz1gk-h_3AJvHAbH4DTDYHDsaw5fUI?usp=drive_link) 
 
-Certifications
+Certifications & Credentials
 *  **COURSERA**
     *  Google:CyberSecurity Professional
     *  Others
       
 * College
-  * **ICOHS** - Cyber Security Specialist 2025.
+  * [**ICOHS**](https://drive.google.com/drive/folders/1xysOGNtLm5lq305OIGeneFyNfun-Oyrg?usp=drive_link) - Cyber Security Specialist 2025.
 
 My Goal:
 To keep growing as a security professional and build strong, practical skills that support safe and resilient systems.
