@@ -54,19 +54,19 @@ Secure Communications & Team Mangement
 Below is my current progress. These are the projects I’m studying and developing as part of my learning journey:
 
 Projects
-*  [**Research Projects**](https://drive.google.com/drive/folders/1-kYpVTDiwsQmeSWCD6Rk5DrbT1cR759n?usp=drive_link)
+*  [**Research Projects**](https://drive.google.com/drive/folders/1yPEIOBEMl6v9KeiR7nCIZsGvlxaW4oGk?usp=drive_link)
 *  [**Home Netwrok Architecture Build up with CISCO PacketTracer**](https://drive.google.com/drive/folders/1EVHTr3hYfR_Dqd9V8mgBroahuPq_-6ZF?usp=drive_link)
-*  SIEM log analysis
-*  Security configuration reviews
-*  Programming and EDM Mod
+*  [**SPLUNK Build up & SIEM Log Analysis**](https://drive.google.com/drive/folders/1lMplPmFdt0KAJoqmTigEQ7ECWCJpa7qu?usp=drive_link)
+*  [**Automated Security Scanning in a Jenkins Pipeline**](https://drive.google.com/drive/folders/1VW7M5Fp4peRT6pPyLj6gFtE7UNHEUtU6?usp=drive_link)
+*  [**Security configuration reviews python Tools**](https://drive.google.com/drive/folders/1yZkz1gk-h_3AJvHAbH4DTDYHDsaw5fUI?usp=drive_link) 
 
 Certifications
-*  [**COURSERA**](https://drive.google.com/drive/folders/1_QwL1ppgcCCqGSj2Adli9TLL3N8ntFw0?usp=drive_link)
+*  **COURSERA**
     *  Google:CyberSecurity Professional
     *  Others
       
 * College
-  * ICOHS - Cyber Security Specialist 2025.
+  * **ICOHS** - Cyber Security Specialist 2025.
 
 My Goal:
 To keep growing as a security professional and build strong, practical skills that support safe and resilient systems.
