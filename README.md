@@ -1,7 +1,7 @@
 Welcome to my cybersecurity portfolio. This space highlights my hands‑on work in threat analysis, vulnerability scanning, and system hardening. I focus on practical skills and solving problems.
 
 About Me
-I’m a cybersecurity student building real experience through labs, projects, and continuous learning. I enjoy breaking down security issues and finding straightforward, effective solutions.
+I’m a cybersecurity professional building real experience through labs, projects, and continuous learning. I enjoy breaking down security issues and finding straightforward, effective solutions.
 
 ******
 ### **Professional Skill Categories**
