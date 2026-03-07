@@ -3,7 +3,8 @@ Welcome to my cybersecurity portfolio. This space highlights my hands‑on work 
 About Me
 I’m a cybersecurity student building real experience through labs, projects, and continuous learning. I enjoy breaking down security issues and finding straightforward, effective solutions.
 
-Professional Skill Categories
+******
+### **Professional Skill Categories**
 
 Skills
 *  Basic to advance communication
@@ -51,24 +52,40 @@ Digital Investigation Skills
 Secure Communications & Team Mangement 
 *   Professional experience with mIRC, Rocket Chat, Surfchat, Intranet, Microsoft Teams Manager, and SharePoint Manager.
 
-Below is my current progress. These are the projects I’m studying and developing as part of my learning journey:
+******
+### **Project Showcase**
+*Below are the completed milestones of my cybersecurity journey. Click the badges to explore the documentation and code.*
 
-Projects
-*  [**Research Projects**](https://drive.google.com/drive/folders/1yPEIOBEMl6v9KeiR7nCIZsGvlxaW4oGk?usp=drive_link)
-*  [**Home Netwrok Architecture Build up with CISCO PacketTracer**](https://drive.google.com/drive/folders/1EVHTr3hYfR_Dqd9V8mgBroahuPq_-6ZF?usp=drive_link)
-*  [**SPLUNK Build up & SIEM Log Analysis**](https://drive.google.com/drive/folders/1lMplPmFdt0KAJoqmTigEQ7ECWCJpa7qu?usp=drive_link)
-*  [**Automated Security Scanning in a Jenkins Pipeline**](https://drive.google.com/drive/folders/1VW7M5Fp4peRT6pPyLj6gFtE7UNHEUtU6?usp=drive_link)
-*  [**Security configuration reviews python Tools**](https://drive.google.com/drive/folders/1yZkz1gk-h_3AJvHAbH4DTDYHDsaw5fUI?usp=drive_link) 
+| Project Title | Technical Focus | Documentation |
+| :--- | :--- | :--- |
+| **Home Network Architecture** | Cisco PacketTracer network design & hardening | [📂 View Project](https://drive.google.com/drive/folders/1EVHTr3hYfR_Dqd9V8mgBroahuPq_-6ZF?usp=drive_link) |
+| **Splunk SIEM Analysis** | SIEM setup, log ingestion, and threat hunting | [📂 View Project](https://drive.google.com/drive/folders/1lMplPmFdt0KAJoqmTigEQ7ECWCJpa7qu?usp=drive_link) |
+| **Automated Security Scanning** | Jenkins Pipeline integration (DevSecOps) | [📂 View Project](https://drive.google.com/drive/folders/1VW7M5Fp4peRT6pPyLj6gFtE7UNHEUtU6?usp=drive_link) |
+| **Security Config Reviews** | Python-based automation for system audits | [📂 View Project](https://drive.google.com/drive/folders/1yZkz1gk-h_3AJvHAbH4DTDYHDsaw5fUI?usp=drive_link) |
+| **All Research Projects** | Comprehensive library of security research | [📚 View All](https://drive.google.com/drive/folders/1yPEIOBEMl6v9KeiR7nCIZsGvlxaW4oGk?usp=drive_link) |
 
-Certifications & Credentials
-*  **COURSERA**
-    *  Google:CyberSecurity Professional
-    *  Others
-      
-* College
-  * [**ICOHS**](https://drive.google.com/drive/folders/1xysOGNtLm5lq305OIGeneFyNfun-Oyrg?usp=drive_link) - Cyber Security Specialist 2025.
+******
+### **Certifications & Education**
 
-My Goal:
-To keep growing as a security professional and build strong, practical skills that support safe and resilient systems.
+**Professional Certifications**
+  *  **Google Cybersecurity Professional Certificate** | Coursera
+  *  Focus: Threat detection, Python for security, and incident response.
+   
+**Education**
+  * **ICOHS College** | San Diego,CA
+  * [**Cyber Security Specialist**](https://drive.google.com/drive/folders/1xysOGNtLm5lq305OIGeneFyNfun-Oyrg?usp=drive_link) -(Graduated 2025)
+  *  Relevant Coursework: Network Security, Ethical Hacking, and Risk Management.
 
-Professional Goal: To achieve a Master’s degree and beyond while evolving alongside the rapidly advancing AI landscape. I am focused on bridging the gap between theoretical security and practical AI implementation to create safer, more adaptive systems.To keep growing as a security professional and build strong, practical skills that support safe and resilient systems.
+******
+### **Professional Mission & Goals**
+
+> "My goal is to keep growing as a security professional and build strong, practical skills that support safe and resilient systems."
+
+* 🛡️ **The Vision:** I am focused on bridging the gap between theoretical security and practical AI implementation to create safer, more adaptive systems.
+* 🎓 **Continuous Learning:** Currently evolving alongside the rapidly advancing AI landscape with the long-term goal of achieving a Master’s degree and beyond.
+* 🤝 **Open to Connect:** I am always open to discussing my work, collaborating on security projects, or exploring new opportunities.
+
+******
+### **Connect with Me**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jose-nieves-paugh-063aa2132)
