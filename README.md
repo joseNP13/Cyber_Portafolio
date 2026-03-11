@@ -14,7 +14,6 @@ Skills
 *  Basic incident response
 *  Network and system hardening
 *  Log review and SIEM fundamentals
-*  Many more...
 
 Tools
 *  Wireshark
@@ -23,7 +22,7 @@ Tools
 *  Nessus
 *  Linux utilities
 
-Frameworks & Playbook Reasearch  
+Frameworks & Playbook Research  
 *  NIST
 *  CIS Controls
 *  MITRE ATT&CK
@@ -42,17 +41,18 @@ Software Development & Data Science
 
 Enterprise Administration
 * Microsoft Admin Tools: Expert in Microsoft 365 Admin Center, Active Directory (AD), and SharePoint Administration.
+* Apple Device Management: Experience in macOS/iOS deployment, configuration profiles, automated workflows, and lifecycle management. 
 * Security & Compliance: Utilizing DISS/JPAS for personnel security and Bitlocker/Okta for endpoint and identity protection.
-* Workflow: Managing team productivity and technical debt using Jira and Microsoft Teams.
-
+* Workflow & Collaboration: Managing team productivity, technical debt, and project tracking using Jira, Microsoft Teams, and structured IT service workflows.
+  
 Digital Investigation Skills
-* All‑Source & OSINT Research: Skilled in collecting, validating, and correlating information from open sources, public datasets, and digital footprints to build accurate intelligence assessments.
-* Use of Public Investigation Tools: Experienced with widely available OSINT platforms such as Shodan, Censys, Maltego, SpiderFoot, OSINT Framework, and other open‑source investigative utilities.
-* Privacy‑Focused Project Work: Many projects cannot be displayed due to confidentiality, but they demonstrate strong analytical methods, ethical investigation practices, and secure handling of sensitive findings.
+* All‑Source Research: Skilled in gathering, comparing, and synthesizing information from confidential, internal, and multi‑source datasets to produce accurate, well‑supported assessments. Experienced in identifying patterns, validating sources, and organizing findings into clear, actionable summaries.
+* OSINT Research: Proficient in collecting and analyzing information from open sources, public datasets, digital footprints, and online infrastructure. Experienced with tools such as Shodan, Censys, Maltego, SpiderFoot, OSINT Framework, and other open‑source platforms to identify exposed assets and map online activity.
+* Privacy Focused Project Work: Conducted multiple investigations involving confidential data, demonstrating strong analytical methods, ethical research practices, and secure handling of sensitive findings.
 
 Secure Communications & Team Mangement 
-*   Professional experience with mIRC, Rocket Chat, Surfchat, Intranet, Microsoft Teams Manager, and SharePoint Manager.
-
+*   Professional experience with mIRC, Rocket.Chat, SurfChat, Slack, Mattermost, Discord (professional use), Microsoft Teams Manager, SharePoint Manager, Confluence, and other secure communication and collaboration platforms.
+  
 ******
 ### **Project Showcase**
 *Below are the completed milestones of my cybersecurity journey. Click the badges to explore the documentation and code.*
